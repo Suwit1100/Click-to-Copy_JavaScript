@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-style: normal;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 95vh;
+
+}
+
+.form-control {
+    max-width: 50% !important;
+}
